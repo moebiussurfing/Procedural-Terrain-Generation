@@ -9,11 +9,11 @@
 #endif
 
 class GUI {
+public:
 	void random();
 
 #ifdef USE_COLOR_CLIENT
 public:
-
 	ofxColorClient colorClient;
 #define NUM_COLOR 7
 	//ofColor palette[NUM_COLOR];
