@@ -1,0 +1,7 @@
+ofxAnimatable
+ofxColorClient
+ofxGui
+ofxImGui
+ofxPoco
+ofxIO
+ofxSurfingHelpers

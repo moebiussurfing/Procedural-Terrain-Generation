@@ -1,0 +1,25 @@
+{
+    "ofxColorClient": {
+        "Advanced": {
+            "Gui_Internal": {
+                "GuiPos": "617, 244",
+                "Show_Gui_All": "1",
+                "Show_Gui_Internal": "0"
+            },
+            "Watch_Preset_Path": {
+                "Custom_Path": "0",
+                "file": "ofxColorManager_Palette.json"
+            }
+        },
+        "Show_Curve_Editor": "1",
+        "Show_Gui_User": "1",
+        "Show_Help": "1",
+        "Show_Presets": "1",
+        "Show_Preview_Palette": "0",
+        "TWEEN": {
+            "Curve": "42",
+            "Duration": "0.324",
+            "Enable": "1"
+        }
+    }
+}
